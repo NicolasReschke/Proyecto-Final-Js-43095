@@ -134,6 +134,5 @@ fetch("./js/productos.json")
             })
     
         }
-    
-    
+        
     })
