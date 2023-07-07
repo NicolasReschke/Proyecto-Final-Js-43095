@@ -12,6 +12,10 @@ body.dark .tituloGeneral h1 {
   color: rgb(224, 224, 224);
 }
 
+.gif {
+  height: 300px;
+}
+
 .productos {
   margin: 0 auto;
   display: flex;
@@ -21,7 +25,8 @@ body.dark .tituloGeneral h1 {
   padding: 15px;
 }
 .productos .imagenProductos img {
-  width: 100%;
+  height: 300px;
+  width: 500px;
 }
 .productos .textoProductos {
   display: flex;
@@ -155,6 +160,11 @@ body.dark .productos .textoProductos {
 
 .disabled {
   display: none;
+}
+
+.buscador {
+  padding: 10px;
+  margin: 20px;
 }
 
 /* 
