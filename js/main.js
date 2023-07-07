@@ -28,7 +28,7 @@ fetch("./js/productos.json")
                     <div class="card-body">
                         <h2 class="card-title">$ ${producto.precio}</h2>
                         <p class="card-text">${producto.titulo}</p>
-                        <button class="producto-agregar btnCompra" id="${producto.id}">COMPRAR</button>
+                        <button class="producto-agregar btnCompra" id="${producto.id}">Agregar al carrito</button>
                     </div>
                 </div>
             </div>

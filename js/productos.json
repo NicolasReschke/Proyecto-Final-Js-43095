@@ -40,6 +40,30 @@
         "categoria": "bebidas"
     },
     {
+        "id": "cocacola01",
+        "titulo": "Gaseosa Coca Cola sabor original 2.25 l.",
+        "marca": "coca cola",
+        "precio": 681,
+        "img": "https://carrefourar.vtexassets.com/arquivos/ids/332148-1200-auto?v=638211437412370000&width=1200&height=auto&aspect=true",
+        "categoria": "bebidas"
+    },
+    {
+        "id": "cocacola02",
+        "titulo": "Gaseosa Coca cola sabor original 1.25 l.",
+        "marca": "speed",
+        "precio": 383,
+        "img": "https://carrefourar.vtexassets.com/arquivos/ids/332240-1200-auto?v=638211437672300000&width=1200&height=auto&aspect=true",
+        "categoria": "bebidas"
+    },
+    {
+        "id": "cocacola03",
+        "titulo": "Pack gaseosas Coca Cola 2.25 l. + Sprite 2.25 l.",
+        "marca": "cocacola",
+        "precio": 1.255,
+        "img": "https://carrefourar.vtexassets.com/arquivos/ids/299375-1200-auto?v=638133695836330000&width=1200&height=auto&aspect=true",
+        "categoria": "bebidas"
+    },
+    {
         "id": "laProvidencia01",
         "titulo": "Galletitas crackers La Providencia 303 gr.",
         "marca": "laProvidencia",
@@ -72,6 +96,38 @@
         "categoria": "desayunoYMerienda"
     },
     {
+        "id": "dolca01",
+        "titulo": "Café instántaneo Dolca más aroma 100 g.",
+        "marca": "dolca",
+        "precio": 1352,
+        "img": "https://carrefourar.vtexassets.com/arquivos/ids/333373-1200-auto?v=638213303234600000&width=1200&height=auto&aspect=true",
+        "categoria": "desayunoYMerienda"
+    },
+    {
+        "id": "dolca02",
+        "titulo": "Nescafé dolca suave 170 g.",
+        "marca": "dolca",
+        "precio": 1852,
+        "img": "https://carrefourar.vtexassets.com/arquivos/ids/333377-1200-auto?v=638213304345270000&width=1200&height=auto&aspect=true",
+        "categoria": "desayunoYMerienda"
+    },
+    {
+        "id": "oreo01",
+        "titulo": "Galletitas dulces Oreo rellenas de crema sabor vainilla 354 g.",
+        "marca": "oreo",
+        "precio": 776,
+        "img": "https://carrefourar.vtexassets.com/arquivos/ids/272163-1200-auto?v=638103526536200000&width=1200&height=auto&aspect=true",
+        "categoria": "desayunoYMerienda"
+    },
+    {
+        "id": "oreo02",
+        "titulo": "Galletitas dulces Oreo rellenas con crema 354 g.",
+        "marca": "oreo",
+        "precio": 855,
+        "img": "https://carrefourar.vtexassets.com/arquivos/ids/314563-1200-auto?v=638175046506470000&width=1200&height=auto&aspect=true",
+        "categoria": "desayunoYMerienda"
+    },
+    {
         "id": "pureza01",
         "titulo": "Harina Pureza especial para pizzas 1 kg.",
         "marca": "pureza",
@@ -88,6 +144,54 @@
         "categoria": "almacen"
     },
     {
+        "id": "knorr01",
+        "titulo": "Sopa crema Knorr zapallo con nuez moscada 70 g.",
+        "marca": "knorr",
+        "precio": 195,
+        "img": "https://carrefourar.vtexassets.com/arquivos/ids/246154-1200-auto?v=637901365389600000&width=1200&height=auto&aspect=true",
+        "categoria": "almacen"
+    },
+    {
+        "id": "knorr02",
+        "titulo": "Sopa de vegetales Knorr con amaranto 78 g.",
+        "marca": "knorr",
+        "precio": 200,
+        "img": "https://carrefourar.vtexassets.com/arquivos/ids/248740-1200-auto?v=637916098693500000&width=1200&height=auto&aspect=true",
+        "categoria": "almacen"
+    },
+    {
+        "id": "pureza01",
+        "titulo": "Aceite de girasol Pureza 1500 cc.",
+        "marca": "pureza",
+        "precio": 958,
+        "img": "https://carrefourar.vtexassets.com/arquivos/ids/155419-1200-auto?v=637457062386100000&width=1200&height=auto&aspect=true",
+        "categoria": "almacen"
+    },
+    {
+        "id": "cañuelas01",
+        "titulo": "Aceite de girasol Cañuelas 1.5 l.",
+        "marca": "cañuelas",
+        "precio": 533.66,
+        "img": "https://carrefourar.vtexassets.com/arquivos/ids/193270-1200-auto?v=637515951429070000&width=1200&height=auto&aspect=true",
+        "categoria": "almacen"
+    },
+    {
+        "id": "hellmans01",
+        "titulo": "Mayonesa Hellmann's regular doy pack 475 g.",
+        "marca": "hellmans",
+        "precio": 389,
+        "img": "https://carrefourar.vtexassets.com/arquivos/ids/276730-1200-auto?v=638127856995900000&width=1200&height=auto&aspect=true",
+        "categoria": "almacen"
+    },
+    {
+        "id": "hellmans02",
+        "titulo": "Mayonesa Hellmanns liviana dp 475 g.",
+        "marca": "hellmans",
+        "precio": 390,
+        "img": "https://carrefourar.vtexassets.com/arquivos/ids/272103-1200-auto?v=638101685262770000&width=1200&height=auto&aspect=true",
+        "categoria": "almacen"
+    },
+    {
         "id": "rexona01",
         "titulo": "Antitranspirante Rexona men fanáticos aero 150 cc.",
         "marca": "rexona",
@@ -101,6 +205,46 @@
         "marca": "rexona",
         "precio": 549.99,
         "img": "https://carrefourar.vtexassets.com/arquivos/ids/298484-1200-auto?v=638131287525930000&width=1200&height=auto&aspect=true",
+        "categoria": "perfumeria"
+    },
+    {
+        "id": "dove01",
+        "titulo": "Jabón tocador Dove blanco 90 g.",
+        "marca": "dove",
+        "precio": 301,
+        "img": "https://carrefourar.vtexassets.com/arquivos/ids/309385-1200-auto?v=638150911811870000&width=1200&height=auto&aspect=true",
+        "categoria": "perfumeria"
+    },
+    {
+        "id": "dove02",
+        "titulo": "Shampoo Dove reconstrucción completa 400 cc.",
+        "marca": "rexona",
+        "precio": 1070,
+        "img": "https://carrefourar.vtexassets.com/arquivos/ids/312858-1200-auto?v=638168146689700000&width=1200&height=auto&aspect=true",
+        "categoria": "perfumeria"
+    },
+    {
+        "id": "dove03",
+        "titulo": "Antitranspirante en aerosol Dove original 150 cc.",
+        "marca": "dove",
+        "precio": 732,
+        "img": "https://carrefourar.vtexassets.com/arquivos/ids/309365-1200-auto?v=638150911648500000&width=1200&height=auto&aspect=true",
+        "categoria": "perfumeria"
+    },
+    {
+        "id": "lordcheseline01",
+        "titulo": "Gel fijador Lord Cheseline classic 150 g.",
+        "marca": "lordcheseline",
+        "precio": 418,
+        "img": "https://carrefourar.vtexassets.com/arquivos/ids/177133-1200-auto?v=637468575749200000&width=1200&height=auto&aspect=true",
+        "categoria": "perfumeria"
+    },
+    {
+        "id": "lux01",
+        "titulo": "Jabón líquido Lux orquídea negra repuesto 220 g.",
+        "marca": "lux",
+        "precio": 338.44,
+        "img": "https://carrefourar.vtexassets.com/arquivos/ids/298962-1200-auto?v=638131853262400000&width=1200&height=auto&aspect=true",
         "categoria": "perfumeria"
     },
     {

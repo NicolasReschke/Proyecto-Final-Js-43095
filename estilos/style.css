@@ -12,10 +12,6 @@ body.dark .tituloGeneral h1 {
   color: rgb(224, 224, 224);
 }
 
-.gif {
-  height: 300px;
-}
-
 .productos {
   margin: 0 auto;
   display: flex;
@@ -70,6 +66,19 @@ body.dark .productos .textoProductos {
   border-radius: 0.25rem;
 }
 
+.close-menu {
+  display: none;
+}
+
+.disabled {
+  display: none;
+}
+
+.buscador {
+  padding: 10px;
+  margin: 20px;
+}
+
 .boton-carrito {
   margin-top: 2rem;
 }
@@ -92,13 +101,13 @@ body.dark .productos .textoProductos {
   background-color: rgb(28, 58, 156);
   color: antiquewhite;
   padding: 0.5rem;
-  padding-right: 1.5rem;
+  padding-right: 1rem;
   border-radius: 1rem;
 }
 
 .carrito-producto-imagen {
   width: 4rem;
-  border-radius: 1rem;
+  border-radius: 0.5rem;
 }
 
 .carrito-producto small {
@@ -133,6 +142,9 @@ body.dark .productos .textoProductos {
 }
 
 .carrito-acciones-total {
+  width: 15rem;
+  justify-content: center;
+  align-items: center;
   display: flex;
   background-color: rgb(28, 58, 156);
   padding: 1rem;
@@ -152,19 +164,6 @@ body.dark .productos .textoProductos {
   cursor: pointer;
   border-top-right-radius: 1rem;
   border-bottom-right-radius: 1rem;
-}
-
-.close-menu {
-  display: none;
-}
-
-.disabled {
-  display: none;
-}
-
-.buscador {
-  padding: 10px;
-  margin: 20px;
 }
 
 /* 
