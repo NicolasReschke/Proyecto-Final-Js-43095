@@ -1,3 +1,8 @@
+window.onload = function() {
+    $("#onload").fadeOut();
+    $("body").removeClass("hidden");
+}
+
 let productos = [];
 
 fetch("./js/productos.json")

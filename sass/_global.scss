@@ -15,10 +15,6 @@ html{
     scroll-behavior: smooth;
 }
 
-section[id]{
-    scroll-padding-top: 70px;
-}
-
 body{
     font-family: 'Ubuntu', sans-serif;
     background-color: $theme-color;

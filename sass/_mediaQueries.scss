@@ -105,10 +105,8 @@ h1{
 
     .menu2 {
         display: flex;
+        justify-content: space-around;
+        align-items: center;
         flex-wrap: wrap;
         list-style: none;
-        align-items: center;
-        li{
-            padding: 5px 5px;
-        }
     }

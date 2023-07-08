@@ -46,7 +46,7 @@
 }
 
 .btnCompra {
-    background-color: $primary-color;
+    background-color: $switch-primary-color;
             color: $text-color-inverse;
             border: none;
             font-size: 20px;
@@ -77,4 +77,9 @@
 .buscador{
     padding: 10px;
     margin: 20px;
+}
+
+.menu2{
+    padding: 10px;
+    background-color: $switch-primary-color;
 }
