@@ -182,6 +182,11 @@ body.dark .productos .textoProductos {
 .menu2 {
   padding: 10px;
   background-color: rgb(71, 101, 199);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  list-style: none;
 }
 
 /* 
@@ -510,13 +515,6 @@ body.dark .footerContainer .grupo1 .cajaFooter .parrafoFooter {
     text-align: center;
   }
   /* ============== footer ============== */
-  .menu2 {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    flex-wrap: wrap;
-    list-style: none;
-  }
 }
 .form_container {
   position: fixed;

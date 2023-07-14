@@ -79,7 +79,12 @@
     margin: 20px;
 }
 
-.menu2{
+.menu2 {
     padding: 10px;
     background-color: $switch-primary-color;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    list-style: none;
 }
