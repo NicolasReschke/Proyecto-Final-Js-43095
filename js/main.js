@@ -124,7 +124,6 @@ function actualizarNumerito() {
     numerito.innerText = nuevoNumerito;
 }
 
-    
 document.addEventListener("keyup", e=>{
 
     if (e.target.matches("#buscador")){
