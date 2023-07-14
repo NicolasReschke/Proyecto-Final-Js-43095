@@ -35,9 +35,10 @@
 }
 
 .carrito-producto-eliminar {
+  font-size: xx-large;
   border: 0;
   background-color: transparent;
-  color: #961818;
+  color: red;
   cursor: pointer;
 }
 
@@ -48,8 +49,8 @@
 }
 
 .carrito-acciones-vaciar {
+  background-color: red;
   border: 0;
-  background-color: rgb(28, 58, 156);
   padding: 1rem;
   border-radius: 1rem;
   color: antiquewhite;
@@ -87,7 +88,15 @@
 }
 
 .carrito-producto-titulo {
-  max-width: 15rem;
+  max-width: 17rem;
+}
+
+.h5, .parrafo-carrito {
+  margin: 10px;
+  padding: 5px;
+  text-align: center;
+  background-color: #303030;
+  border-radius: 0.5rem;
 }
 
 .tituloGeneral {
@@ -173,17 +182,6 @@ body.dark .productos .textoProductos {
 .menu2 {
   padding: 10px;
   background-color: rgb(71, 101, 199);
-}
-
-h5, p {
-  margin: 10px;
-  padding: 5px;
-  text-align: center;
-  background-color: #303030;
-}
-
-.card-text {
-  color: rgb(230, 230, 230);
 }
 
 /* 
@@ -512,15 +510,14 @@ body.dark .footerContainer .grupo1 .cajaFooter .parrafoFooter {
     text-align: center;
   }
   /* ============== footer ============== */
+  .menu2 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    list-style: none;
+  }
 }
-.menu2 {
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-  flex-wrap: wrap;
-  list-style: none;
-}
-
 .form_container {
   position: fixed;
   max-width: 320px;

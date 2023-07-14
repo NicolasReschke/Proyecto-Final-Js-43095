@@ -29,11 +29,11 @@ function cargarProductos(productosElegidos) {
         div.innerHTML = `
         <div class="col">
             <div class="card">
-                <img class="card-img-top" src="${producto.img}" alt="${producto.titulo}">
+                <img class="card-img-top" src="${producto.img}" title="${producto.titulo}" alt="${producto.titulo}">
                 <div class="card-body">
                     <h2 class="card-title">$ ${producto.precio}</h2>
                     <p class="card-text">${producto.titulo}</p>
-                    <button class="producto-agregar btnCompra" id="${producto.id}">Agregar al carrito</button>
+                    <button class="producto-agregar btnCompra" id="${producto.id}">Agregar al pedido</button>
                 </div>
             </div>
         </div>

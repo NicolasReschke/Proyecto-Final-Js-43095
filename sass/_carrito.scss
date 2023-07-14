@@ -34,9 +34,10 @@
 }
 
 .carrito-producto-eliminar {
+    font-size:xx-large;
     border: 0;
     background-color: transparent;
-    color: $carrito-eliminar;
+    color: red;
     cursor: pointer;
 }
 
@@ -47,8 +48,8 @@
 }
 
 .carrito-acciones-vaciar {
+    background-color: red;
     border: 0;
-    background-color: $primary-color;
     padding: 1rem;
     border-radius: 1rem;
     color: $theme-color;
@@ -86,5 +87,13 @@
 }
 
 .carrito-producto-titulo {
-    max-width: 15rem;
+    max-width: 17rem;
+}
+
+.h5, .parrafo-carrito {
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+    background-color: $theme-color2;
+    border-radius: .5rem;
 }

@@ -61,47 +61,45 @@
     .menu a:hover{
         color: $secondary-color;
     }
-/* ============== Menu ============== */
+    /* ============== Menu ============== */
 
-/* ============== Index ============== */
-h1{
-    font-size: 40px;
-}
-
-.productos{
-    flex-wrap: wrap;
-    justify-content: center;
-    .imagenProductos{
-        img{
-            max-width: 370px;
-        }
+    /* ============== Index ============== */
+    h1{
+        font-size: 40px;
     }
-    .textoProductos{
-        padding: 5px;
+
+    .productos{
         flex-wrap: wrap;
-    }
-}
-/* ============== Index ============== */
-
-
-/* ============== footer ============== */
-.footerContainer{
-    .grupo1{
-        width: 90%;
-        grid-template-columns: 1fr;
-        grid-gap: 10px;
-        padding: 35px 0px;
-        text-align: center;
-        h5{
-            text-align: center;
+        justify-content: center;
+        .imagenProductos{
+            img{
+                max-width: 370px;
+            }
         }
-        .parrafoFooter{
-            text-align: center;
+        .textoProductos{
+            padding: 5px;
+            flex-wrap: wrap;
         }
     }
-}
+    /* ============== Index ============== */
+
+    /* ============== footer ============== */
+    .footerContainer{
+        .grupo1{
+            width: 90%;
+            grid-template-columns: 1fr;
+            grid-gap: 10px;
+            padding: 35px 0px;
+            text-align: center;
+            h5{
+                text-align: center;
+            }
+            .parrafoFooter{
+                text-align: center;
+            }
+        }
+    }
 /* ============== footer ============== */
-}
 
     .menu2 {
         display: flex;
@@ -110,3 +108,4 @@ h1{
         flex-wrap: wrap;
         list-style: none;
     }
+}
