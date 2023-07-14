@@ -175,6 +175,17 @@ body.dark .productos .textoProductos {
   background-color: rgb(71, 101, 199);
 }
 
+h5, p {
+  margin: 10px;
+  padding: 5px;
+  text-align: center;
+  background-color: #303030;
+}
+
+.card-text {
+  color: rgb(230, 230, 230);
+}
+
 /* 
 font-family: 'Merriweather Sans', sans-serif;
 font-family: 'Open Sans', sans-serif;
